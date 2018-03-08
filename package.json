@@ -1,0 +1,11 @@
+{
+  "name": "marvin-cowsay",
+  "version": "1.0.0",
+  "description": "The first plugin for Marvin (https://github.com/alexandref93/marvin)",
+  "main": "index.js",
+  "author": "Carlos Alexandre Fuechter <alexandref93@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.2.1"
+  }
+}
