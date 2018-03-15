@@ -1,6 +1,6 @@
 # marvin-cowsay
 
-The first plugin for [Marvin](https://github.com/alexandref93/marvin)
+The first plugin for [Marvin](https://github.com/marvin-js/marvin)
 
 # Contents
 
