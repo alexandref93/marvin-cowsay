@@ -1,5 +1,5 @@
 {
-  "name": "marvin-cowsay",
+  "name": "marvin-plugin-cowsay",
   "version": "1.0.0",
   "description": "The first plugin for Marvin (https://github.com/alexandref93/marvin)",
   "main": "index.js",
