@@ -1,4 +1,4 @@
-# marvin-cowsay
+# marvin-plugin-cowsay
 
 The first plugin for [Marvin](https://github.com/marvin-js/marvin)
 
